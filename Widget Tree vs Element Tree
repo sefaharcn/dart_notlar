@@ -1,0 +1,3 @@
+https://i.ytimg.com/vi/4W8eN_6mO2E/maxresdefault.jpg
+widgetler birbirinden habersizdir.Program oluşturulurken widgetlar birde element ağağı eklenir bu ağaç widgetlerın statelerini tutar ve context oluşturur.
+widgetlar setstate vb sürekli yenilensene widget tree bunların statetini bellekte tutan bir ağaç olarak arka planda çalışır.
