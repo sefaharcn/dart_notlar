@@ -26,4 +26,6 @@ String Renk;
 String uretimYılı;}
 *extends ettiğiniz methodların soyut olmayan methodları override etmek zorunda değilsiniz
 *fakat implement ettiğiniz zaman bütün methodları @override etmek zorundasınız.
+  :super(degisken) // üst sınıfa değişken göndermek için kullanılır.Yapıcı methot çağırır. üst klasın ilgili metodunu kullandığınızı belirtmiş oluyorsunuz
+Static num esyaSayisi=0; // bu degisken bir kere üretilir.farklı classlarda olurturulsada ikinci bir degisken oluşturulmaz yani hangi classtan çağırırsanız çağırız aynı değişken değeri üzerinde oynama yapar.global değişken gibi.
 
